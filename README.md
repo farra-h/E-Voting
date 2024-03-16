@@ -25,3 +25,6 @@ Please note that the system is designed to handle up to 999 votes per candidate.
 
 ## Schematic diagram using Active HDL
 ![schematic](https://github.com/farra-h/E-Voting/assets/134429241/d964cd58-e1e0-49f1-b688-74b8337cc525)
+
+## Here is a video of testing the circuit simulation on Proteus
+Link to the video
