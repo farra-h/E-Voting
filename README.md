@@ -27,4 +27,4 @@ Please note that the system is designed to handle up to 999 votes per candidate.
 ![schematic](https://github.com/farra-h/E-Voting/assets/134429241/d964cd58-e1e0-49f1-b688-74b8337cc525)
 
 ## Here is a video of testing the circuit simulation on Proteus
-Link to the video
+[The simulation on Proteus video](https://drive.google.com/drive/folders/1afTQ4tImajqYelCCiCVzWdapv0PLZJHi?usp=drive_link)
