@@ -18,6 +18,8 @@ Please note that the system is designed to handle up to 999 votes per candidate.
 
 ## System Simulation on Proteus
 ![simulation](https://github.com/farra-h/E-Voting/assets/134429241/1a966883-1668-4fc9-887e-8c2ad1a75c0c)
+
+## System Simulation on Quartus
 ![simulation3](https://github.com/farra-h/E-Voting/assets/134429241/0a2c5e62-6e4f-4940-99b8-f2e5ac15c11f)
 ![simulation2](https://github.com/farra-h/E-Voting/assets/134429241/cd4e0cd0-2703-481d-adcd-6a4322dcc923)
 
