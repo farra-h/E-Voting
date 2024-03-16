@@ -16,4 +16,8 @@ To cast a vote for a candidate, simply press the corresponding button. The seven
 ## Limitations
 Please note that the system is designed to handle up to 999 votes per candidate. Any votes cast beyond this limit will not be counted.
 
+## System Simulation on Proteus
 ![simulation](https://github.com/farra-h/E-Voting/assets/134429241/1a966883-1668-4fc9-887e-8c2ad1a75c0c)
+
+## Schematic diagram using Active HDL
+![schematic](https://github.com/farra-h/E-Voting/assets/134429241/d964cd58-e1e0-49f1-b688-74b8337cc525)
